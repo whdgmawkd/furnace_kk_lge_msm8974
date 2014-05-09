@@ -1,5 +1,5 @@
 #!/bin/bash
-build=/home/savoca/furnace_output/lg
+build=/home/savoca/dev/output
 kernel="furnace"
 toolchain=/home/savoca/toolchains/android-toolchain-eabi/bin/
 toolchain2="arm-eabi-"
