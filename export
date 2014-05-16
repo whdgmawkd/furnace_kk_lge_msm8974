@@ -1,7 +1,7 @@
 #!/bin/bash
-build=/home/savoca/dev/output
+build=/home/savoca/downloads/furnace/galbi/aosp
 kernel="furnace"
-toolchain=/home/savoca/toolchains/android-toolchain-eabi/bin/
+toolchain=/home/savoca/storage/toolchains/android-toolchain-eabi/bin/
 toolchain2="arm-eabi-"
 kerneltype="zImage"
 jobcount="-j4"
